@@ -1,12 +1,17 @@
-streamlit
+opencv-python-headless
+streamlit==1.3.0
+mediapipe==0.8.9.1
+numpy==1.19.3
+Pillow==8.2.0
 streamlit_webrtc
-torch
 
+torch
 torchvision
-opencv-python
 matplotlib
 PyYAML
 requests
 scipy
 tqdm
 seaborn
+
+
