@@ -4,7 +4,7 @@ mediapipe==0.8.9.1
 numpy==1.19.3
 Pillow==8.2.0
 streamlit_webrtc
-
+ipython
 torch
 torchvision
 matplotlib
